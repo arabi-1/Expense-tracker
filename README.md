@@ -29,7 +29,7 @@ This program is licensed under the MIT License.
 Contributing:
 Contributions are welcome! If you have any ideas or bug fixes, please submit a pull request.
 
-Author
+Author:
 Muhmmad Arabi,
 Mahmood Ashraf
 
