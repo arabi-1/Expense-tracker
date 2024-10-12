@@ -30,7 +30,7 @@ Contributing:
 Contributions are welcome! If you have any ideas or bug fixes, please submit a pull request.
 
 Author
-Muhmmad Arabi
+Muhmmad Arabi,
 Mahmood Ashraf
 
 Acknowledgments:
